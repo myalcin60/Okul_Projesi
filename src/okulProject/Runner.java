@@ -6,5 +6,6 @@ public class Runner {
         Ogrenci.feykOgrenciEkle();
 
         Depo.anaMenu();
+        int sayi= 5;
     }
 }
